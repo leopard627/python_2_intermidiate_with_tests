@@ -1,0 +1,8 @@
+actionid: py26
+msg: getenv
+cmdargs: ['/Users/elastic/.env/python_intermidiate/bin/python2.7', '-m', 'virtualenv', '--python', '/usr/bin/python2.6', 'py26']
+
+New python executable in /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6
+Also creating executable in /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python
+Installing setuptools, pip, wheel...done.
+Running virtualenv with interpreter /usr/bin/python2.6

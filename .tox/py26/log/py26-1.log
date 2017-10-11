@@ -1,0 +1,62 @@
+actionid: py26
+msg: getenv
+cmdargs: ['/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/pip', 'install', '-r/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt']
+
+DEPRECATION: Python 2.6 is no longer supported by the Python core team, please upgrade your Python. A future version of pip will drop support for Python 2.6
+Collecting pluggy==0.5.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 1))
+Collecting py==1.4.34 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 2))
+  Using cached py-1.4.34-py2.py3-none-any.whl
+Collecting pytest==3.2.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 3))
+  Using cached pytest-3.2.3-py2.py3-none-any.whl
+Collecting six==1.11.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 4))
+  Using cached six-1.11.0-py2.py3-none-any.whl
+Collecting tox==2.9.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 5))
+  Using cached tox-2.9.1-py2.py3-none-any.whl
+Collecting virtualenv==15.1.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 6))
+  Using cached virtualenv-15.1.0-py2.py3-none-any.whl
+Requirement already satisfied: setuptools in ./.tox/py26/lib/python2.6/site-packages (from pytest==3.2.3->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 3))
+Collecting ordereddict; python_version == "2.6" (from pytest==3.2.3->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 3))
+/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.io/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.io/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+  Downloading ordereddict-1.1.tar.gz
+Collecting argparse; python_version == "2.6" (from pytest==3.2.3->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 3))
+  Downloading argparse-1.4.0-py2.py3-none-any.whl
+Building wheels for collected packages: ordereddict
+  Running setup.py bdist_wheel for ordereddict: started
+  Running setup.py bdist_wheel for ordereddict: finished with status 'error'
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-SWsPi8/ordereddict/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpRsR3pQpip-wheel- --python-tag cp26:
+  Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-SWsPi8/ordereddict/setup.py", line 8, in <module>
+      py_modules=['ordereddict']
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
+      ok = dist.parse_command_line()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 442, in parse_command_line
+      result = _Distribution.parse_command_line(self)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 460, in parse_command_line
+      args = self._parse_command_opts(parser, args)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 756, in _parse_command_opts
+      nargs = _Distribution._parse_command_opts(self, parser, args)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 518, in _parse_command_opts
+      cmd_class = self.get_command_class(command)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 576, in get_command_class
+      self.cmdclass[command] = cmdclass = ep.load()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2405, in load
+      return self.resolve()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2411, in resolve
+      module = __import__(self.module_name, fromlist=['__name__'], level=0)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/wheel/bdist_wheel.py", line 407
+      ignore=lambda x, y: {'PKG-INFO', 'requires.txt', 'SOURCES.txt',
+                                     ^
+  SyntaxError: invalid syntax
+  
+  ----------------------------------------
+  Failed building wheel for ordereddict
+  Running setup.py clean for ordereddict
+Failed to build ordereddict
+Installing collected packages: pluggy, py, ordereddict, argparse, pytest, six, virtualenv, tox
+  Running setup.py install for ordereddict: started
+    Running setup.py install for ordereddict: finished with status 'done'
+Successfully installed argparse-1.4.0 ordereddict-1.1 pluggy-0.5.2 py-1.4.34 pytest-3.2.3 six-1.11.0 tox-2.9.1 virtualenv-15.1.0

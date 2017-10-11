@@ -1,0 +1,9 @@
+actionid: python
+msg: getenv
+cmdargs: ['/Users/elastic/.env/python_intermidiate/bin/python2.7', '-m', 'virtualenv', '--python', '/Users/elastic/.env/python_intermidiate/bin/python2.7', 'python']
+
+Already using interpreter /Users/elastic/.env/python_intermidiate/bin/python2.7
+Using real prefix '/usr/local/Cellar/python/2.7.13_1/Frameworks/Python.framework/Versions/2.7'
+New python executable in /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/python/bin/python2.7
+Also creating executable in /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/python/bin/python
+Installing setuptools, pip, wheel...done.
