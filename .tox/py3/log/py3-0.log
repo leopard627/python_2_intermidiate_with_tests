@@ -1,0 +1,9 @@
+actionid: py3
+msg: getenv
+cmdargs: ['/Users/elastic/.env/python_intermidiate/bin/python2.7', '-m', 'virtualenv', '--python', '/usr/local/bin/python3', 'py3']
+
+Using base prefix '/usr/local/Cellar/python3/3.6.3/Frameworks/Python.framework/Versions/3.6'
+New python executable in /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py3/bin/python3.6
+Also creating executable in /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py3/bin/python
+Installing setuptools, pip, wheel...done.
+Running virtualenv with interpreter /usr/local/bin/python3
