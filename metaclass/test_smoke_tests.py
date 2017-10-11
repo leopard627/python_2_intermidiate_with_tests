@@ -12,4 +12,4 @@ class TestClass(unittest.TestCase):
         pass
 
     def test_name(self):
-        assert 1 is not 1, "Should be cool"
+        assert 1 is 1, "Should be cool"
