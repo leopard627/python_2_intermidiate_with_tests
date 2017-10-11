@@ -1,0 +1,17 @@
+[pytest]
+# python_files = check_*.py
+python_files = test*
+;DJANGO_SETTINGS_MODULE = dibiup_server.settings.development
+; Now We use Four SubProcess
+color=yes
+;addopts = --nomigrations --cov=. --cov-report=html
+;addopts = --nomigrations --cov=. --cov-report=html
+;addopts = --cov=. --cov-re
+;addopts = --nomigrations --cov=. --cov-report=html -n6 -v
+;
+;addopts = --cov=. --cov-report=html -v
+;
+;
+;
+addopts = -v 
+

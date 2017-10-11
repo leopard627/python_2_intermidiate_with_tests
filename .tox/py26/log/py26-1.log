@@ -3,33 +3,268 @@ msg: getenv
 cmdargs: ['/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/pip', 'install', '-r/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt']
 
 DEPRECATION: Python 2.6 is no longer supported by the Python core team, please upgrade your Python. A future version of pip will drop support for Python 2.6
-Collecting pluggy==0.5.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 1))
-Collecting py==1.4.34 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 2))
+Collecting alabaster==0.7.10 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 1))
+  Using cached alabaster-0.7.10-py2.py3-none-any.whl
+Collecting apipkg==1.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 2))
+  Using cached apipkg-1.4-py2.py3-none-any.whl
+Collecting astroid==1.5.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 3))
+  Using cached astroid-1.5.3-py2.py3-none-any.whl
+Collecting Babel==2.5.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 4))
+  Using cached Babel-2.5.1-py2.py3-none-any.whl
+Collecting backports.functools-lru-cache==1.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 5))
+  Using cached backports.functools_lru_cache-1.4-py2.py3-none-any.whl
+Collecting certifi==2017.7.27.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 6))
+  Using cached certifi-2017.7.27.1-py2.py3-none-any.whl
+Collecting chardet==3.0.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 7))
+  Using cached chardet-3.0.4-py2.py3-none-any.whl
+Collecting configparser==3.5.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 8))
+  Using cached configparser-3.5.0.tar.gz
+Collecting coverage==4.4.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 9))
+  Using cached coverage-4.4.1-cp26-cp26m-macosx_10_10_x86_64.whl
+Collecting docutils==0.14 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 10))
+  Using cached docutils-0.14-py2-none-any.whl
+Collecting enum34==1.1.6 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 11))
+  Using cached enum34-1.1.6-py2-none-any.whl
+Collecting execnet==1.4.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 12))
+  Using cached execnet-1.4.1-py2.py3-none-any.whl
+Collecting gitdb2==2.0.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 13))
+  Using cached gitdb2-2.0.3-py2.py3-none-any.whl
+Collecting GitPython==2.1.7 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 14))
+  Using cached GitPython-2.1.7-py2.py3-none-any.whl
+Collecting idna==2.6 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 15))
+  Using cached idna-2.6-py2.py3-none-any.whl
+Collecting imagesize==0.7.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 16))
+  Using cached imagesize-0.7.1-py2.py3-none-any.whl
+Collecting isort==4.2.15 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 17))
+  Using cached isort-4.2.15-py2.py3-none-any.whl
+Collecting Jinja2==2.9.6 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 18))
+  Using cached Jinja2-2.9.6-py2.py3-none-any.whl
+Collecting lazy-object-proxy==1.3.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 19))
+  Using cached lazy-object-proxy-1.3.1.tar.gz
+Collecting lint==1.2.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 20))
+  Using cached lint-1.2.1.tar.gz
+Collecting MarkupSafe==1.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 21))
+  Using cached MarkupSafe-1.0.tar.gz
+Collecting mccabe==0.6.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 22))
+  Using cached mccabe-0.6.1-py2.py3-none-any.whl
+Collecting pluggy==0.5.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 23))
+Collecting py==1.4.34 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 24))
   Using cached py-1.4.34-py2.py3-none-any.whl
-Collecting pytest==3.2.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 3))
+Collecting Pygments==2.2.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 25))
+  Using cached Pygments-2.2.0-py2.py3-none-any.whl
+Collecting pylint==1.7.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 26))
+  Using cached pylint-1.7.4-py2.py3-none-any.whl
+Collecting pytest==3.2.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 27))
   Using cached pytest-3.2.3-py2.py3-none-any.whl
-Collecting six==1.11.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 4))
+Collecting pytest-cov==2.5.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 28))
+  Using cached pytest_cov-2.5.1-py2.py3-none-any.whl
+Collecting pytest-forked==0.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 29))
+  Using cached pytest_forked-0.2-py2.py3-none-any.whl
+Collecting pytest-xdist==1.20.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 30))
+  Using cached pytest_xdist-1.20.1-py2.py3-none-any.whl
+Collecting pytz==2017.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 31))
+  Using cached pytz-2017.2-py2.py3-none-any.whl
+Collecting requests==2.18.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 32))
+  Using cached requests-2.18.4-py2.py3-none-any.whl
+Collecting singledispatch==3.4.0.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 33))
+  Using cached singledispatch-3.4.0.3-py2.py3-none-any.whl
+Collecting six==1.11.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 34))
   Using cached six-1.11.0-py2.py3-none-any.whl
-Collecting tox==2.9.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 5))
+Collecting smmap2==2.0.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 35))
+  Using cached smmap2-2.0.3-py2.py3-none-any.whl
+Collecting snowballstemmer==1.2.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 36))
+  Using cached snowballstemmer-1.2.1-py2.py3-none-any.whl
+Collecting Sphinx==1.6.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 37))
+  Using cached Sphinx-1.6.4-py2.py3-none-any.whl
+Collecting sphinxcontrib-websupport==1.0.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 38))
+  Using cached sphinxcontrib_websupport-1.0.1-py2.py3-none-any.whl
+Collecting tox==2.9.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 39))
   Using cached tox-2.9.1-py2.py3-none-any.whl
-Collecting virtualenv==15.1.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 6))
+Collecting typing==3.6.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 40))
+  Using cached typing-3.6.2-py2-none-any.whl
+Collecting urllib3==1.22 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 41))
+  Using cached urllib3-1.22-py2.py3-none-any.whl
+Collecting virtualenv==15.1.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 42))
   Using cached virtualenv-15.1.0-py2.py3-none-any.whl
-Requirement already satisfied: setuptools in ./.tox/py26/lib/python2.6/site-packages (from pytest==3.2.3->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 3))
-Collecting ordereddict; python_version == "2.6" (from pytest==3.2.3->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 3))
-/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.io/en/latest/security.html#snimissingwarning.
-  SNIMissingWarning
-/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.io/en/latest/security.html#insecureplatformwarning.
-  InsecurePlatformWarning
-  Downloading ordereddict-1.1.tar.gz
-Collecting argparse; python_version == "2.6" (from pytest==3.2.3->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 3))
-  Downloading argparse-1.4.0-py2.py3-none-any.whl
-Building wheels for collected packages: ordereddict
-  Running setup.py bdist_wheel for ordereddict: started
-  Running setup.py bdist_wheel for ordereddict: finished with status 'error'
-  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-SWsPi8/ordereddict/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpRsR3pQpip-wheel- --python-tag cp26:
+Collecting wrapt==1.10.11 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 43))
+  Using cached wrapt-1.10.11.tar.gz
+Collecting ordereddict (from configparser==3.5.0->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 8))
+  Using cached ordereddict-1.1.tar.gz
+Collecting argparse; python_version == "2.6" (from pytest==3.2.3->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 27))
+  Using cached argparse-1.4.0-py2.py3-none-any.whl
+Requirement already satisfied: setuptools in ./.tox/py26/lib/python2.6/site-packages (from pytest==3.2.3->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 27))
+Building wheels for collected packages: configparser, lazy-object-proxy, lint, MarkupSafe, wrapt, ordereddict
+  Running setup.py bdist_wheel for configparser: started
+  Running setup.py bdist_wheel for configparser: finished with status 'error'
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-cLl5xT/configparser/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmp30xmLXpip-wheel- --python-tag cp26:
   Traceback (most recent call last):
     File "<string>", line 1, in <module>
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-SWsPi8/ordereddict/setup.py", line 8, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-cLl5xT/configparser/setup.py", line 63, in <module>
+      'Topic :: Software Development :: Libraries :: Python Modules',
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
+      ok = dist.parse_command_line()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 442, in parse_command_line
+      result = _Distribution.parse_command_line(self)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 460, in parse_command_line
+      args = self._parse_command_opts(parser, args)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 756, in _parse_command_opts
+      nargs = _Distribution._parse_command_opts(self, parser, args)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 518, in _parse_command_opts
+      cmd_class = self.get_command_class(command)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 576, in get_command_class
+      self.cmdclass[command] = cmdclass = ep.load()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2405, in load
+      return self.resolve()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2411, in resolve
+      module = __import__(self.module_name, fromlist=['__name__'], level=0)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/wheel/bdist_wheel.py", line 407
+      ignore=lambda x, y: {'PKG-INFO', 'requires.txt', 'SOURCES.txt',
+                                     ^
+  SyntaxError: invalid syntax
+  
+  ----------------------------------------
+  Failed building wheel for configparser
+  Running setup.py clean for configparser
+  Running setup.py bdist_wheel for lazy-object-proxy: started
+  Running setup.py bdist_wheel for lazy-object-proxy: finished with status 'error'
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-cLl5xT/lazy-object-proxy/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpgXsS4fpip-wheel- --python-tag cp26:
+  Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-cLl5xT/lazy-object-proxy/setup.py", line 116, in <module>
+      for path in glob(join(root, '*.c'))
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
+      ok = dist.parse_command_line()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 442, in parse_command_line
+      result = _Distribution.parse_command_line(self)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 460, in parse_command_line
+      args = self._parse_command_opts(parser, args)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 756, in _parse_command_opts
+      nargs = _Distribution._parse_command_opts(self, parser, args)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 518, in _parse_command_opts
+      cmd_class = self.get_command_class(command)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 576, in get_command_class
+      self.cmdclass[command] = cmdclass = ep.load()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2405, in load
+      return self.resolve()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2411, in resolve
+      module = __import__(self.module_name, fromlist=['__name__'], level=0)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/wheel/bdist_wheel.py", line 407
+      ignore=lambda x, y: {'PKG-INFO', 'requires.txt', 'SOURCES.txt',
+                                     ^
+  SyntaxError: invalid syntax
+  
+  ----------------------------------------
+  Failed building wheel for lazy-object-proxy
+  Running setup.py clean for lazy-object-proxy
+  Running setup.py bdist_wheel for lint: started
+  Running setup.py bdist_wheel for lint: finished with status 'error'
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-cLl5xT/lint/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpUR5yOfpip-wheel- --python-tag cp26:
+  Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-cLl5xT/lint/setup.py", line 14, in <module>
+      install_requires=["gitpython", "pylint"]
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
+      ok = dist.parse_command_line()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 442, in parse_command_line
+      result = _Distribution.parse_command_line(self)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 460, in parse_command_line
+      args = self._parse_command_opts(parser, args)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 756, in _parse_command_opts
+      nargs = _Distribution._parse_command_opts(self, parser, args)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 518, in _parse_command_opts
+      cmd_class = self.get_command_class(command)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 576, in get_command_class
+      self.cmdclass[command] = cmdclass = ep.load()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2405, in load
+      return self.resolve()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2411, in resolve
+      module = __import__(self.module_name, fromlist=['__name__'], level=0)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/wheel/bdist_wheel.py", line 407
+      ignore=lambda x, y: {'PKG-INFO', 'requires.txt', 'SOURCES.txt',
+                                     ^
+  SyntaxError: invalid syntax
+  
+  ----------------------------------------
+  Failed building wheel for lint
+  Running setup.py clean for lint
+  Running setup.py bdist_wheel for MarkupSafe: started
+  Running setup.py bdist_wheel for MarkupSafe: finished with status 'error'
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-cLl5xT/MarkupSafe/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpnn7LuDpip-wheel- --python-tag cp26:
+  /private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-cLl5xT/MarkupSafe/setup.py:27: DeprecationWarning: Features are deprecated and will be removed in a future version. See https://github.com/pypa/setuptools/issues/65.
+    Extension('markupsafe._speedups', ['markupsafe/_speedups.c']),
+  /System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py:113: DeprecationWarning: Features are deprecated and will be removed in a future version. See https://github.com/pypa/setuptools/issues/65.
+    _setup_distribution = dist = klass(attrs)
+  Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-cLl5xT/MarkupSafe/setup.py", line 132, in <module>
+      try_building_extension()
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-cLl5xT/MarkupSafe/setup.py", line 111, in try_building_extension
+      run_setup(True)
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-cLl5xT/MarkupSafe/setup.py", line 105, in run_setup
+      features=features,
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
+      ok = dist.parse_command_line()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 442, in parse_command_line
+      result = _Distribution.parse_command_line(self)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 460, in parse_command_line
+      args = self._parse_command_opts(parser, args)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 756, in _parse_command_opts
+      nargs = _Distribution._parse_command_opts(self, parser, args)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 518, in _parse_command_opts
+      cmd_class = self.get_command_class(command)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 576, in get_command_class
+      self.cmdclass[command] = cmdclass = ep.load()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2405, in load
+      return self.resolve()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2411, in resolve
+      module = __import__(self.module_name, fromlist=['__name__'], level=0)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/wheel/bdist_wheel.py", line 407
+      ignore=lambda x, y: {'PKG-INFO', 'requires.txt', 'SOURCES.txt',
+                                     ^
+  SyntaxError: invalid syntax
+  
+  ----------------------------------------
+  Failed building wheel for MarkupSafe
+  Running setup.py clean for MarkupSafe
+  Running setup.py bdist_wheel for wrapt: started
+  Running setup.py bdist_wheel for wrapt: finished with status 'error'
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-cLl5xT/wrapt/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmppCrPpmpip-wheel- --python-tag cp26:
+  Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-cLl5xT/wrapt/setup.py", line 100, in <module>
+      run_setup(with_extensions=True)
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-cLl5xT/wrapt/setup.py", line 70, in run_setup
+      setup(**setup_kwargs_tmp)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
+      ok = dist.parse_command_line()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 442, in parse_command_line
+      result = _Distribution.parse_command_line(self)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 460, in parse_command_line
+      args = self._parse_command_opts(parser, args)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 756, in _parse_command_opts
+      nargs = _Distribution._parse_command_opts(self, parser, args)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 518, in _parse_command_opts
+      cmd_class = self.get_command_class(command)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 576, in get_command_class
+      self.cmdclass[command] = cmdclass = ep.load()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2405, in load
+      return self.resolve()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2411, in resolve
+      module = __import__(self.module_name, fromlist=['__name__'], level=0)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/wheel/bdist_wheel.py", line 407
+      ignore=lambda x, y: {'PKG-INFO', 'requires.txt', 'SOURCES.txt',
+                                     ^
+  SyntaxError: invalid syntax
+  
+  ----------------------------------------
+  Failed building wheel for wrapt
+  Running setup.py clean for wrapt
+  Running setup.py bdist_wheel for ordereddict: started
+  Running setup.py bdist_wheel for ordereddict: finished with status 'error'
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-cLl5xT/ordereddict/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpSdsqb_pip-wheel- --python-tag cp26:
+  Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-cLl5xT/ordereddict/setup.py", line 8, in <module>
       py_modules=['ordereddict']
     File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
       ok = dist.parse_command_line()
@@ -55,8 +290,18 @@ Building wheels for collected packages: ordereddict
   ----------------------------------------
   Failed building wheel for ordereddict
   Running setup.py clean for ordereddict
-Failed to build ordereddict
-Installing collected packages: pluggy, py, ordereddict, argparse, pytest, six, virtualenv, tox
+Failed to build configparser lazy-object-proxy lint MarkupSafe wrapt ordereddict
+Installing collected packages: alabaster, apipkg, wrapt, lazy-object-proxy, six, singledispatch, backports.functools-lru-cache, enum34, astroid, pytz, Babel, certifi, chardet, ordereddict, configparser, coverage, docutils, execnet, smmap2, gitdb2, GitPython, idna, imagesize, isort, MarkupSafe, Jinja2, mccabe, pylint, lint, pluggy, py, Pygments, argparse, pytest, pytest-cov, pytest-forked, pytest-xdist, urllib3, requests, snowballstemmer, typing, sphinxcontrib-websupport, Sphinx, virtualenv, tox
+  Running setup.py install for wrapt: started
+    Running setup.py install for wrapt: finished with status 'done'
+  Running setup.py install for lazy-object-proxy: started
+    Running setup.py install for lazy-object-proxy: finished with status 'done'
   Running setup.py install for ordereddict: started
     Running setup.py install for ordereddict: finished with status 'done'
-Successfully installed argparse-1.4.0 ordereddict-1.1 pluggy-0.5.2 py-1.4.34 pytest-3.2.3 six-1.11.0 tox-2.9.1 virtualenv-15.1.0
+  Running setup.py install for configparser: started
+    Running setup.py install for configparser: finished with status 'done'
+  Running setup.py install for MarkupSafe: started
+    Running setup.py install for MarkupSafe: finished with status 'done'
+  Running setup.py install for lint: started
+    Running setup.py install for lint: finished with status 'done'
+Successfully installed Babel-2.5.1 GitPython-2.1.7 Jinja2-2.9.6 MarkupSafe-1.0 Pygments-2.2.0 Sphinx-1.6.4 alabaster-0.7.10 apipkg-1.4 argparse-1.4.0 astroid-1.5.3 backports.functools-lru-cache-1.4 certifi-2017.7.27.1 chardet-3.0.4 configparser-3.5.0 coverage-4.4.1 docutils-0.14 enum34-1.1.6 execnet-1.4.1 gitdb2-2.0.3 idna-2.6 imagesize-0.7.1 isort-4.2.15 lazy-object-proxy-1.3.1 lint-1.2.1 mccabe-0.6.1 ordereddict-1.1 pluggy-0.5.2 py-1.4.34 pylint-1.7.4 pytest-3.2.3 pytest-cov-2.5.1 pytest-forked-0.2 pytest-xdist-1.20.1 pytz-2017.2 requests-2.18.4 singledispatch-3.4.0.3 six-1.11.0 smmap2-2.0.3 snowballstemmer-1.2.1 sphinxcontrib-websupport-1.0.1 tox-2.9.1 typing-3.6.2 urllib3-1.22 virtualenv-15.1.0 wrapt-1.10.11

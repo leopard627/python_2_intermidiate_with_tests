@@ -2,17 +2,86 @@ actionid: py27
 msg: getenv
 cmdargs: ['/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py27/bin/pip', 'install', '-r/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt']
 
-Collecting pluggy==0.5.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 1))
-Collecting py==1.4.34 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 2))
+Collecting alabaster==0.7.10 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 1))
+  Using cached alabaster-0.7.10-py2.py3-none-any.whl
+Collecting apipkg==1.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 2))
+  Using cached apipkg-1.4-py2.py3-none-any.whl
+Collecting astroid==1.5.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 3))
+  Using cached astroid-1.5.3-py2.py3-none-any.whl
+Collecting Babel==2.5.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 4))
+  Using cached Babel-2.5.1-py2.py3-none-any.whl
+Collecting backports.functools-lru-cache==1.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 5))
+  Using cached backports.functools_lru_cache-1.4-py2.py3-none-any.whl
+Collecting certifi==2017.7.27.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 6))
+  Using cached certifi-2017.7.27.1-py2.py3-none-any.whl
+Collecting chardet==3.0.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 7))
+  Using cached chardet-3.0.4-py2.py3-none-any.whl
+Collecting configparser==3.5.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 8))
+Collecting coverage==4.4.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 9))
+  Using cached coverage-4.4.1-cp27-cp27m-macosx_10_12_intel.whl
+Collecting docutils==0.14 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 10))
+  Using cached docutils-0.14-py2-none-any.whl
+Collecting enum34==1.1.6 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 11))
+  Using cached enum34-1.1.6-py2-none-any.whl
+Collecting execnet==1.4.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 12))
+  Using cached execnet-1.4.1-py2.py3-none-any.whl
+Collecting gitdb2==2.0.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 13))
+  Using cached gitdb2-2.0.3-py2.py3-none-any.whl
+Collecting GitPython==2.1.7 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 14))
+  Using cached GitPython-2.1.7-py2.py3-none-any.whl
+Collecting idna==2.6 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 15))
+  Using cached idna-2.6-py2.py3-none-any.whl
+Collecting imagesize==0.7.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 16))
+  Using cached imagesize-0.7.1-py2.py3-none-any.whl
+Collecting isort==4.2.15 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 17))
+  Using cached isort-4.2.15-py2.py3-none-any.whl
+Collecting Jinja2==2.9.6 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 18))
+  Using cached Jinja2-2.9.6-py2.py3-none-any.whl
+Collecting lazy-object-proxy==1.3.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 19))
+Collecting lint==1.2.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 20))
+Collecting MarkupSafe==1.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 21))
+Collecting mccabe==0.6.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 22))
+  Using cached mccabe-0.6.1-py2.py3-none-any.whl
+Collecting pluggy==0.5.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 23))
+Collecting py==1.4.34 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 24))
   Using cached py-1.4.34-py2.py3-none-any.whl
-Collecting pytest==3.2.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 3))
+Collecting Pygments==2.2.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 25))
+  Using cached Pygments-2.2.0-py2.py3-none-any.whl
+Collecting pylint==1.7.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 26))
+  Using cached pylint-1.7.4-py2.py3-none-any.whl
+Collecting pytest==3.2.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 27))
   Using cached pytest-3.2.3-py2.py3-none-any.whl
-Collecting six==1.11.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 4))
+Collecting pytest-cov==2.5.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 28))
+  Using cached pytest_cov-2.5.1-py2.py3-none-any.whl
+Collecting pytest-forked==0.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 29))
+  Using cached pytest_forked-0.2-py2.py3-none-any.whl
+Collecting pytest-xdist==1.20.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 30))
+  Using cached pytest_xdist-1.20.1-py2.py3-none-any.whl
+Collecting pytz==2017.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 31))
+  Using cached pytz-2017.2-py2.py3-none-any.whl
+Collecting requests==2.18.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 32))
+  Using cached requests-2.18.4-py2.py3-none-any.whl
+Collecting singledispatch==3.4.0.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 33))
+  Using cached singledispatch-3.4.0.3-py2.py3-none-any.whl
+Collecting six==1.11.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 34))
   Using cached six-1.11.0-py2.py3-none-any.whl
-Collecting tox==2.9.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 5))
+Collecting smmap2==2.0.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 35))
+  Using cached smmap2-2.0.3-py2.py3-none-any.whl
+Collecting snowballstemmer==1.2.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 36))
+  Using cached snowballstemmer-1.2.1-py2.py3-none-any.whl
+Collecting Sphinx==1.6.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 37))
+  Using cached Sphinx-1.6.4-py2.py3-none-any.whl
+Collecting sphinxcontrib-websupport==1.0.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 38))
+  Using cached sphinxcontrib_websupport-1.0.1-py2.py3-none-any.whl
+Collecting tox==2.9.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 39))
   Using cached tox-2.9.1-py2.py3-none-any.whl
-Collecting virtualenv==15.1.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 6))
+Collecting typing==3.6.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 40))
+  Using cached typing-3.6.2-py2-none-any.whl
+Collecting urllib3==1.22 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 41))
+  Using cached urllib3-1.22-py2.py3-none-any.whl
+Collecting virtualenv==15.1.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 42))
   Using cached virtualenv-15.1.0-py2.py3-none-any.whl
-Requirement already satisfied: setuptools in ./.tox/py27/lib/python2.7/site-packages (from pytest==3.2.3->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 3))
-Installing collected packages: pluggy, py, pytest, six, virtualenv, tox
-Successfully installed pluggy-0.5.2 py-1.4.34 pytest-3.2.3 six-1.11.0 tox-2.9.1 virtualenv-15.1.0
+Collecting wrapt==1.10.11 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 43))
+Requirement already satisfied: setuptools in ./.tox/py27/lib/python2.7/site-packages (from pytest==3.2.3->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 27))
+Installing collected packages: alabaster, apipkg, backports.functools-lru-cache, six, lazy-object-proxy, enum34, wrapt, singledispatch, astroid, pytz, Babel, certifi, chardet, configparser, coverage, docutils, execnet, smmap2, gitdb2, GitPython, idna, imagesize, isort, MarkupSafe, Jinja2, mccabe, pylint, lint, pluggy, py, Pygments, pytest, pytest-cov, pytest-forked, pytest-xdist, urllib3, requests, snowballstemmer, typing, sphinxcontrib-websupport, Sphinx, virtualenv, tox
+Successfully installed Babel-2.5.1 GitPython-2.1.7 Jinja2-2.9.6 MarkupSafe-1.0 Pygments-2.2.0 Sphinx-1.6.4 alabaster-0.7.10 apipkg-1.4 astroid-1.5.3 backports.functools-lru-cache-1.4 certifi-2017.7.27.1 chardet-3.0.4 configparser-3.5.0 coverage-4.4.1 docutils-0.14 enum34-1.1.6 execnet-1.4.1 gitdb2-2.0.3 idna-2.6 imagesize-0.7.1 isort-4.2.15 lazy-object-proxy-1.3.1 lint-1.2.1 mccabe-0.6.1 pluggy-0.5.2 py-1.4.34 pylint-1.7.4 pytest-3.2.3 pytest-cov-2.5.1 pytest-forked-0.2 pytest-xdist-1.20.1 pytz-2017.2 requests-2.18.4 singledispatch-3.4.0.3 six-1.11.0 smmap2-2.0.3 snowballstemmer-1.2.1 sphinxcontrib-websupport-1.0.1 tox-2.9.1 typing-3.6.2 urllib3-1.22 virtualenv-15.1.0 wrapt-1.10.11
