@@ -7,22 +7,20 @@ test_smoke_tests
 
 import unittest
 
+
 class TestClass(unittest.TestCase):
     """Test case docstring."""
     def setUp(self):
-        """
-        setUp
-        """
-        assert 1 is 1
+        pass
 
     def tearDown(self):
-        """
-        tearDown
-        """
         assert 1 is 1
 
-    def test_name(self):
-        """
-        test_name
-        """
-        assert 1 is 1, "Should be cool"
+    def test_define_type_classes(self):
+
+        class MyClass(object):
+            pass
+
+        x = MyClass()
+
+        assert MyClass == type(x)

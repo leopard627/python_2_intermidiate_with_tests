@@ -11,99 +11,131 @@ Collecting alabaster==0.7.10 (from -r /Users/elastic/Projects/git_public_repo/py
   Using cached alabaster-0.7.10-py2.py3-none-any.whl
 Collecting apipkg==1.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 2))
   Using cached apipkg-1.4-py2.py3-none-any.whl
-Collecting astroid==1.5.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 3))
+Collecting appnope==0.1.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 3))
+  Using cached appnope-0.1.0-py2.py3-none-any.whl
+Collecting astroid==1.5.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 4))
   Using cached astroid-1.5.3-py2.py3-none-any.whl
-Collecting Babel==2.5.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 4))
+Collecting Babel==2.5.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 5))
   Using cached Babel-2.5.1-py2.py3-none-any.whl
-Collecting backports.functools-lru-cache==1.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 5))
+Collecting backports.functools-lru-cache==1.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 6))
   Using cached backports.functools_lru_cache-1.4-py2.py3-none-any.whl
-Collecting certifi==2017.7.27.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 6))
+Collecting backports.shutil-get-terminal-size==1.0.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 7))
+  Using cached backports.shutil_get_terminal_size-1.0.0-py2.py3-none-any.whl
+Collecting certifi==2017.7.27.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 8))
   Using cached certifi-2017.7.27.1-py2.py3-none-any.whl
-Collecting chardet==3.0.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 7))
+Collecting chardet==3.0.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 9))
   Using cached chardet-3.0.4-py2.py3-none-any.whl
-Collecting configparser==3.5.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 8))
+Collecting configparser==3.5.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 10))
   Using cached configparser-3.5.0.tar.gz
-Collecting coverage==4.4.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 9))
+Collecting coverage==4.4.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 11))
   Using cached coverage-4.4.1-cp26-cp26m-macosx_10_10_x86_64.whl
-Collecting docutils==0.14 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 10))
+Collecting decorator==4.1.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 12))
+  Using cached decorator-4.1.2-py2.py3-none-any.whl
+Collecting docutils==0.14 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 13))
   Using cached docutils-0.14-py2-none-any.whl
-Collecting enum34==1.1.6 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 11))
+Collecting enum34==1.1.6 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 14))
   Using cached enum34-1.1.6-py2-none-any.whl
-Collecting execnet==1.4.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 12))
+Collecting execnet==1.4.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 15))
   Using cached execnet-1.4.1-py2.py3-none-any.whl
-Collecting gitdb2==2.0.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 13))
+Collecting gitdb2==2.0.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 16))
   Using cached gitdb2-2.0.3-py2.py3-none-any.whl
-Collecting GitPython==2.1.7 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 14))
+Collecting GitPython==2.1.7 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 17))
   Using cached GitPython-2.1.7-py2.py3-none-any.whl
-Collecting idna==2.6 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 15))
+Collecting idna==2.6 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 18))
   Using cached idna-2.6-py2.py3-none-any.whl
-Collecting imagesize==0.7.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 16))
+Collecting imagesize==0.7.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 19))
   Using cached imagesize-0.7.1-py2.py3-none-any.whl
-Collecting isort==4.2.15 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 17))
+Collecting ipdb==0.10.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 20))
+  Using cached ipdb-0.10.3.tar.gz
+Collecting ipython==5.5.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 21))
+  Using cached ipython-5.5.0-py2-none-any.whl
+Collecting ipython-genutils==0.2.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 22))
+  Using cached ipython_genutils-0.2.0-py2.py3-none-any.whl
+Collecting isort==4.2.15 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 23))
   Using cached isort-4.2.15-py2.py3-none-any.whl
-Collecting Jinja2==2.9.6 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 18))
+Collecting Jinja2==2.9.6 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 24))
   Using cached Jinja2-2.9.6-py2.py3-none-any.whl
-Collecting lazy-object-proxy==1.3.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 19))
+Collecting lazy-object-proxy==1.3.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 25))
   Using cached lazy-object-proxy-1.3.1.tar.gz
-Collecting lint==1.2.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 20))
+Collecting lint==1.2.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 26))
   Using cached lint-1.2.1.tar.gz
-Collecting MarkupSafe==1.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 21))
+Collecting MarkupSafe==1.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 27))
   Using cached MarkupSafe-1.0.tar.gz
-Collecting mccabe==0.6.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 22))
+Collecting mccabe==0.6.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 28))
   Using cached mccabe-0.6.1-py2.py3-none-any.whl
-Collecting pluggy==0.5.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 23))
-Collecting py==1.4.34 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 24))
+Collecting pathlib2==2.3.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 29))
+  Using cached pathlib2-2.3.0-py2.py3-none-any.whl
+Collecting pexpect==4.2.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 30))
+  Using cached pexpect-4.2.1-py2.py3-none-any.whl
+Collecting pickleshare==0.7.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 31))
+  Using cached pickleshare-0.7.4-py2.py3-none-any.whl
+Collecting pluggy==0.5.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 32))
+Collecting prompt-toolkit==1.0.15 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 33))
+  Using cached prompt_toolkit-1.0.15-py2-none-any.whl
+Collecting ptyprocess==0.5.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 34))
+  Using cached ptyprocess-0.5.2-py2.py3-none-any.whl
+Collecting py==1.4.34 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 35))
   Using cached py-1.4.34-py2.py3-none-any.whl
-Collecting Pygments==2.2.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 25))
+Collecting Pygments==2.2.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 36))
   Using cached Pygments-2.2.0-py2.py3-none-any.whl
-Collecting pylint==1.7.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 26))
+Collecting pylint==1.7.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 37))
   Using cached pylint-1.7.4-py2.py3-none-any.whl
-Collecting pytest==3.2.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 27))
+Collecting pytest==3.2.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 38))
   Using cached pytest-3.2.3-py2.py3-none-any.whl
-Collecting pytest-cov==2.5.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 28))
+Collecting pytest-cov==2.5.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 39))
   Using cached pytest_cov-2.5.1-py2.py3-none-any.whl
-Collecting pytest-forked==0.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 29))
+Collecting pytest-forked==0.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 40))
   Using cached pytest_forked-0.2-py2.py3-none-any.whl
-Collecting pytest-xdist==1.20.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 30))
+Collecting pytest-pylint==0.7.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 41))
+  Using cached pytest_pylint-0.7.1-py2-none-any.whl
+Collecting pytest-xdist==1.20.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 42))
   Using cached pytest_xdist-1.20.1-py2.py3-none-any.whl
-Collecting pytz==2017.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 31))
+Collecting pytz==2017.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 43))
   Using cached pytz-2017.2-py2.py3-none-any.whl
-Collecting requests==2.18.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 32))
+Collecting requests==2.18.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 44))
   Using cached requests-2.18.4-py2.py3-none-any.whl
-Collecting singledispatch==3.4.0.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 33))
+Collecting scandir==1.6 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 45))
+  Using cached scandir-1.6.tar.gz
+Collecting simplegeneric==0.8.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 46))
+  Using cached simplegeneric-0.8.1.zip
+Collecting singledispatch==3.4.0.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 47))
   Using cached singledispatch-3.4.0.3-py2.py3-none-any.whl
-Collecting six==1.11.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 34))
+Collecting six==1.11.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 48))
   Using cached six-1.11.0-py2.py3-none-any.whl
-Collecting smmap2==2.0.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 35))
+Collecting smmap2==2.0.3 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 49))
   Using cached smmap2-2.0.3-py2.py3-none-any.whl
-Collecting snowballstemmer==1.2.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 36))
+Collecting snowballstemmer==1.2.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 50))
   Using cached snowballstemmer-1.2.1-py2.py3-none-any.whl
-Collecting Sphinx==1.6.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 37))
+Collecting Sphinx==1.6.4 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 51))
   Using cached Sphinx-1.6.4-py2.py3-none-any.whl
-Collecting sphinxcontrib-websupport==1.0.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 38))
+Collecting sphinxcontrib-websupport==1.0.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 52))
   Using cached sphinxcontrib_websupport-1.0.1-py2.py3-none-any.whl
-Collecting tox==2.9.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 39))
+Collecting tox==2.9.1 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 53))
   Using cached tox-2.9.1-py2.py3-none-any.whl
-Collecting typing==3.6.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 40))
+Collecting traitlets==4.3.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 54))
+  Using cached traitlets-4.3.2-py2.py3-none-any.whl
+Collecting typing==3.6.2 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 55))
   Using cached typing-3.6.2-py2-none-any.whl
-Collecting urllib3==1.22 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 41))
+Collecting urllib3==1.22 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 56))
   Using cached urllib3-1.22-py2.py3-none-any.whl
-Collecting virtualenv==15.1.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 42))
+Collecting virtualenv==15.1.0 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 57))
   Using cached virtualenv-15.1.0-py2.py3-none-any.whl
-Collecting wrapt==1.10.11 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 43))
+Collecting wcwidth==0.1.7 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 58))
+  Using cached wcwidth-0.1.7-py2.py3-none-any.whl
+Collecting wrapt==1.10.11 (from -r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 59))
   Using cached wrapt-1.10.11.tar.gz
-Collecting ordereddict (from configparser==3.5.0->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 8))
+Collecting ordereddict (from configparser==3.5.0->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 10))
   Using cached ordereddict-1.1.tar.gz
-Collecting argparse; python_version == "2.6" (from pytest==3.2.3->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 27))
+Requirement already satisfied: setuptools in ./.tox/py26/lib/python2.6/site-packages (from ipdb==0.10.3->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 20))
+Collecting argparse; python_version == "2.6" (from pytest==3.2.3->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 38))
   Using cached argparse-1.4.0-py2.py3-none-any.whl
-Requirement already satisfied: setuptools in ./.tox/py26/lib/python2.6/site-packages (from pytest==3.2.3->-r /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/requirements.txt (line 27))
-Building wheels for collected packages: configparser, lazy-object-proxy, lint, MarkupSafe, wrapt, ordereddict
+Building wheels for collected packages: configparser, ipdb, lazy-object-proxy, lint, MarkupSafe, scandir, simplegeneric, wrapt, ordereddict
   Running setup.py bdist_wheel for configparser: started
   Running setup.py bdist_wheel for configparser: finished with status 'error'
-  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-GW29jl/configparser/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpGA6YdYpip-wheel- --python-tag cp26:
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/configparser/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpWu11dhpip-wheel- --python-tag cp26:
   Traceback (most recent call last):
     File "<string>", line 1, in <module>
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-GW29jl/configparser/setup.py", line 63, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/configparser/setup.py", line 63, in <module>
       'Topic :: Software Development :: Libraries :: Python Modules',
     File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
       ok = dist.parse_command_line()
@@ -117,9 +149,9 @@ Building wheels for collected packages: configparser, lazy-object-proxy, lint, M
       cmd_class = self.get_command_class(command)
     File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 576, in get_command_class
       self.cmdclass[command] = cmdclass = ep.load()
-    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2405, in load
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2409, in load
       return self.resolve()
-    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2411, in resolve
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2415, in resolve
       module = __import__(self.module_name, fromlist=['__name__'], level=0)
     File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/wheel/bdist_wheel.py", line 407
       ignore=lambda x, y: {'PKG-INFO', 'requires.txt', 'SOURCES.txt',
@@ -129,12 +161,43 @@ Building wheels for collected packages: configparser, lazy-object-proxy, lint, M
   ----------------------------------------
   Failed building wheel for configparser
   Running setup.py clean for configparser
-  Running setup.py bdist_wheel for lazy-object-proxy: started
-  Running setup.py bdist_wheel for lazy-object-proxy: finished with status 'error'
-  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-GW29jl/lazy-object-proxy/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpz6g8LOpip-wheel- --python-tag cp26:
+  Running setup.py bdist_wheel for ipdb: started
+  Running setup.py bdist_wheel for ipdb: finished with status 'error'
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/ipdb/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpMSHGBcpip-wheel- --python-tag cp26:
   Traceback (most recent call last):
     File "<string>", line 1, in <module>
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-GW29jl/lazy-object-proxy/setup.py", line 116, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/ipdb/setup.py", line 60, in <module>
+      use_2to3=True,
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
+      ok = dist.parse_command_line()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 442, in parse_command_line
+      result = _Distribution.parse_command_line(self)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 460, in parse_command_line
+      args = self._parse_command_opts(parser, args)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 756, in _parse_command_opts
+      nargs = _Distribution._parse_command_opts(self, parser, args)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 518, in _parse_command_opts
+      cmd_class = self.get_command_class(command)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 576, in get_command_class
+      self.cmdclass[command] = cmdclass = ep.load()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2409, in load
+      return self.resolve()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2415, in resolve
+      module = __import__(self.module_name, fromlist=['__name__'], level=0)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/wheel/bdist_wheel.py", line 407
+      ignore=lambda x, y: {'PKG-INFO', 'requires.txt', 'SOURCES.txt',
+                                     ^
+  SyntaxError: invalid syntax
+  
+  ----------------------------------------
+  Failed building wheel for ipdb
+  Running setup.py clean for ipdb
+  Running setup.py bdist_wheel for lazy-object-proxy: started
+  Running setup.py bdist_wheel for lazy-object-proxy: finished with status 'error'
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/lazy-object-proxy/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpOY4wDJpip-wheel- --python-tag cp26:
+  Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/lazy-object-proxy/setup.py", line 116, in <module>
       for path in glob(join(root, '*.c'))
     File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
       ok = dist.parse_command_line()
@@ -148,9 +211,9 @@ Building wheels for collected packages: configparser, lazy-object-proxy, lint, M
       cmd_class = self.get_command_class(command)
     File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 576, in get_command_class
       self.cmdclass[command] = cmdclass = ep.load()
-    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2405, in load
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2409, in load
       return self.resolve()
-    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2411, in resolve
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2415, in resolve
       module = __import__(self.module_name, fromlist=['__name__'], level=0)
     File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/wheel/bdist_wheel.py", line 407
       ignore=lambda x, y: {'PKG-INFO', 'requires.txt', 'SOURCES.txt',
@@ -162,10 +225,10 @@ Building wheels for collected packages: configparser, lazy-object-proxy, lint, M
   Running setup.py clean for lazy-object-proxy
   Running setup.py bdist_wheel for lint: started
   Running setup.py bdist_wheel for lint: finished with status 'error'
-  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-GW29jl/lint/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpX0y5BPpip-wheel- --python-tag cp26:
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/lint/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpLtm8HMpip-wheel- --python-tag cp26:
   Traceback (most recent call last):
     File "<string>", line 1, in <module>
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-GW29jl/lint/setup.py", line 14, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/lint/setup.py", line 14, in <module>
       install_requires=["gitpython", "pylint"]
     File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
       ok = dist.parse_command_line()
@@ -179,9 +242,9 @@ Building wheels for collected packages: configparser, lazy-object-proxy, lint, M
       cmd_class = self.get_command_class(command)
     File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 576, in get_command_class
       self.cmdclass[command] = cmdclass = ep.load()
-    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2405, in load
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2409, in load
       return self.resolve()
-    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2411, in resolve
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2415, in resolve
       module = __import__(self.module_name, fromlist=['__name__'], level=0)
     File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/wheel/bdist_wheel.py", line 407
       ignore=lambda x, y: {'PKG-INFO', 'requires.txt', 'SOURCES.txt',
@@ -193,18 +256,18 @@ Building wheels for collected packages: configparser, lazy-object-proxy, lint, M
   Running setup.py clean for lint
   Running setup.py bdist_wheel for MarkupSafe: started
   Running setup.py bdist_wheel for MarkupSafe: finished with status 'error'
-  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-GW29jl/MarkupSafe/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpjnseaipip-wheel- --python-tag cp26:
-  /private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-GW29jl/MarkupSafe/setup.py:27: DeprecationWarning: Features are deprecated and will be removed in a future version. See https://github.com/pypa/setuptools/issues/65.
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/MarkupSafe/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpZRmuvnpip-wheel- --python-tag cp26:
+  /private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/MarkupSafe/setup.py:27: DeprecationWarning: Features are deprecated and will be removed in a future version. See https://github.com/pypa/setuptools/issues/65.
     Extension('markupsafe._speedups', ['markupsafe/_speedups.c']),
   /System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py:113: DeprecationWarning: Features are deprecated and will be removed in a future version. See https://github.com/pypa/setuptools/issues/65.
     _setup_distribution = dist = klass(attrs)
   Traceback (most recent call last):
     File "<string>", line 1, in <module>
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-GW29jl/MarkupSafe/setup.py", line 132, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/MarkupSafe/setup.py", line 132, in <module>
       try_building_extension()
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-GW29jl/MarkupSafe/setup.py", line 111, in try_building_extension
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/MarkupSafe/setup.py", line 111, in try_building_extension
       run_setup(True)
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-GW29jl/MarkupSafe/setup.py", line 105, in run_setup
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/MarkupSafe/setup.py", line 105, in run_setup
       features=features,
     File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
       ok = dist.parse_command_line()
@@ -218,9 +281,9 @@ Building wheels for collected packages: configparser, lazy-object-proxy, lint, M
       cmd_class = self.get_command_class(command)
     File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 576, in get_command_class
       self.cmdclass[command] = cmdclass = ep.load()
-    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2405, in load
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2409, in load
       return self.resolve()
-    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2411, in resolve
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2415, in resolve
       module = __import__(self.module_name, fromlist=['__name__'], level=0)
     File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/wheel/bdist_wheel.py", line 407
       ignore=lambda x, y: {'PKG-INFO', 'requires.txt', 'SOURCES.txt',
@@ -230,14 +293,76 @@ Building wheels for collected packages: configparser, lazy-object-proxy, lint, M
   ----------------------------------------
   Failed building wheel for MarkupSafe
   Running setup.py clean for MarkupSafe
-  Running setup.py bdist_wheel for wrapt: started
-  Running setup.py bdist_wheel for wrapt: finished with status 'error'
-  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-GW29jl/wrapt/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpflsjcFpip-wheel- --python-tag cp26:
+  Running setup.py bdist_wheel for scandir: started
+  Running setup.py bdist_wheel for scandir: finished with status 'error'
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/scandir/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpa1tOQVpip-wheel- --python-tag cp26:
   Traceback (most recent call last):
     File "<string>", line 1, in <module>
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-GW29jl/wrapt/setup.py", line 100, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/scandir/setup.py", line 53, in <module>
+      'Programming Language :: Python :: Implementation :: CPython',
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
+      ok = dist.parse_command_line()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 442, in parse_command_line
+      result = _Distribution.parse_command_line(self)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 460, in parse_command_line
+      args = self._parse_command_opts(parser, args)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 756, in _parse_command_opts
+      nargs = _Distribution._parse_command_opts(self, parser, args)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 518, in _parse_command_opts
+      cmd_class = self.get_command_class(command)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 576, in get_command_class
+      self.cmdclass[command] = cmdclass = ep.load()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2409, in load
+      return self.resolve()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2415, in resolve
+      module = __import__(self.module_name, fromlist=['__name__'], level=0)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/wheel/bdist_wheel.py", line 407
+      ignore=lambda x, y: {'PKG-INFO', 'requires.txt', 'SOURCES.txt',
+                                     ^
+  SyntaxError: invalid syntax
+  
+  ----------------------------------------
+  Failed building wheel for scandir
+  Running setup.py clean for scandir
+  Running setup.py bdist_wheel for simplegeneric: started
+  Running setup.py bdist_wheel for simplegeneric: finished with status 'error'
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/simplegeneric/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmp54gVl5pip-wheel- --python-tag cp26:
+  Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/simplegeneric/setup.py", line 39, in <module>
+      line.strip() for line in open('classifiers.txt') if line.strip()
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
+      ok = dist.parse_command_line()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 442, in parse_command_line
+      result = _Distribution.parse_command_line(self)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 460, in parse_command_line
+      args = self._parse_command_opts(parser, args)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 756, in _parse_command_opts
+      nargs = _Distribution._parse_command_opts(self, parser, args)
+    File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/dist.py", line 518, in _parse_command_opts
+      cmd_class = self.get_command_class(command)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 576, in get_command_class
+      self.cmdclass[command] = cmdclass = ep.load()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2409, in load
+      return self.resolve()
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2415, in resolve
+      module = __import__(self.module_name, fromlist=['__name__'], level=0)
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/wheel/bdist_wheel.py", line 407
+      ignore=lambda x, y: {'PKG-INFO', 'requires.txt', 'SOURCES.txt',
+                                     ^
+  SyntaxError: invalid syntax
+  
+  ----------------------------------------
+  Failed building wheel for simplegeneric
+  Running setup.py clean for simplegeneric
+  Running setup.py bdist_wheel for wrapt: started
+  Running setup.py bdist_wheel for wrapt: finished with status 'error'
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/wrapt/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpElhLfzpip-wheel- --python-tag cp26:
+  Traceback (most recent call last):
+    File "<string>", line 1, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/wrapt/setup.py", line 100, in <module>
       run_setup(with_extensions=True)
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-GW29jl/wrapt/setup.py", line 70, in run_setup
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/wrapt/setup.py", line 70, in run_setup
       setup(**setup_kwargs_tmp)
     File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
       ok = dist.parse_command_line()
@@ -251,9 +376,9 @@ Building wheels for collected packages: configparser, lazy-object-proxy, lint, M
       cmd_class = self.get_command_class(command)
     File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 576, in get_command_class
       self.cmdclass[command] = cmdclass = ep.load()
-    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2405, in load
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2409, in load
       return self.resolve()
-    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2411, in resolve
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2415, in resolve
       module = __import__(self.module_name, fromlist=['__name__'], level=0)
     File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/wheel/bdist_wheel.py", line 407
       ignore=lambda x, y: {'PKG-INFO', 'requires.txt', 'SOURCES.txt',
@@ -265,10 +390,10 @@ Building wheels for collected packages: configparser, lazy-object-proxy, lint, M
   Running setup.py clean for wrapt
   Running setup.py bdist_wheel for ordereddict: started
   Running setup.py bdist_wheel for ordereddict: finished with status 'error'
-  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-GW29jl/ordereddict/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmp6RYlZ8pip-wheel- --python-tag cp26:
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/ordereddict/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmp_gbt7Mpip-wheel- --python-tag cp26:
   Traceback (most recent call last):
     File "<string>", line 1, in <module>
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-GW29jl/ordereddict/setup.py", line 8, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/ordereddict/setup.py", line 8, in <module>
       py_modules=['ordereddict']
     File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
       ok = dist.parse_command_line()
@@ -282,9 +407,9 @@ Building wheels for collected packages: configparser, lazy-object-proxy, lint, M
       cmd_class = self.get_command_class(command)
     File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/setuptools/dist.py", line 576, in get_command_class
       self.cmdclass[command] = cmdclass = ep.load()
-    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2405, in load
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2409, in load
       return self.resolve()
-    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2411, in resolve
+    File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/pkg_resources/__init__.py", line 2415, in resolve
       module = __import__(self.module_name, fromlist=['__name__'], level=0)
     File "/Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/lib/python2.6/site-packages/wheel/bdist_wheel.py", line 407
       ignore=lambda x, y: {'PKG-INFO', 'requires.txt', 'SOURCES.txt',
@@ -294,8 +419,8 @@ Building wheels for collected packages: configparser, lazy-object-proxy, lint, M
   ----------------------------------------
   Failed building wheel for ordereddict
   Running setup.py clean for ordereddict
-Failed to build configparser lazy-object-proxy lint MarkupSafe wrapt ordereddict
-Installing collected packages: alabaster, apipkg, six, singledispatch, wrapt, backports.functools-lru-cache, enum34, lazy-object-proxy, astroid, pytz, Babel, certifi, chardet, ordereddict, configparser, coverage, docutils, execnet, smmap2, gitdb2, GitPython, idna, imagesize, isort, MarkupSafe, Jinja2, mccabe, pylint, lint, pluggy, py, Pygments, argparse, pytest, pytest-cov, pytest-forked, pytest-xdist, urllib3, requests, snowballstemmer, sphinxcontrib-websupport, typing, Sphinx, virtualenv, tox
+Failed to build configparser ipdb lazy-object-proxy lint MarkupSafe scandir simplegeneric wrapt ordereddict
+Installing collected packages: alabaster, apipkg, appnope, wrapt, lazy-object-proxy, backports.functools-lru-cache, six, singledispatch, enum34, astroid, pytz, Babel, backports.shutil-get-terminal-size, certifi, chardet, ordereddict, configparser, coverage, decorator, docutils, execnet, smmap2, gitdb2, GitPython, idna, imagesize, scandir, pathlib2, pickleshare, ptyprocess, pexpect, ipython-genutils, traitlets, simplegeneric, Pygments, wcwidth, prompt-toolkit, ipython, ipdb, isort, MarkupSafe, Jinja2, mccabe, pylint, lint, pluggy, py, argparse, pytest, pytest-cov, pytest-forked, pytest-pylint, pytest-xdist, urllib3, requests, snowballstemmer, sphinxcontrib-websupport, typing, Sphinx, virtualenv, tox
   Running setup.py install for wrapt: started
     Running setup.py install for wrapt: finished with status 'done'
   Running setup.py install for lazy-object-proxy: started
@@ -304,8 +429,14 @@ Installing collected packages: alabaster, apipkg, six, singledispatch, wrapt, ba
     Running setup.py install for ordereddict: finished with status 'done'
   Running setup.py install for configparser: started
     Running setup.py install for configparser: finished with status 'done'
+  Running setup.py install for scandir: started
+    Running setup.py install for scandir: finished with status 'done'
+  Running setup.py install for simplegeneric: started
+    Running setup.py install for simplegeneric: finished with status 'done'
+  Running setup.py install for ipdb: started
+    Running setup.py install for ipdb: finished with status 'done'
   Running setup.py install for MarkupSafe: started
     Running setup.py install for MarkupSafe: finished with status 'done'
   Running setup.py install for lint: started
     Running setup.py install for lint: finished with status 'done'
-Successfully installed Babel-2.5.1 GitPython-2.1.7 Jinja2-2.9.6 MarkupSafe-1.0 Pygments-2.2.0 Sphinx-1.6.4 alabaster-0.7.10 apipkg-1.4 argparse-1.4.0 astroid-1.5.3 backports.functools-lru-cache-1.4 certifi-2017.7.27.1 chardet-3.0.4 configparser-3.5.0 coverage-4.4.1 docutils-0.14 enum34-1.1.6 execnet-1.4.1 gitdb2-2.0.3 idna-2.6 imagesize-0.7.1 isort-4.2.15 lazy-object-proxy-1.3.1 lint-1.2.1 mccabe-0.6.1 ordereddict-1.1 pluggy-0.5.2 py-1.4.34 pylint-1.7.4 pytest-3.2.3 pytest-cov-2.5.1 pytest-forked-0.2 pytest-xdist-1.20.1 pytz-2017.2 requests-2.18.4 singledispatch-3.4.0.3 six-1.11.0 smmap2-2.0.3 snowballstemmer-1.2.1 sphinxcontrib-websupport-1.0.1 tox-2.9.1 typing-3.6.2 urllib3-1.22 virtualenv-15.1.0 wrapt-1.10.11
+Successfully installed Babel-2.5.1 GitPython-2.1.7 Jinja2-2.9.6 MarkupSafe-1.0 Pygments-2.2.0 Sphinx-1.6.4 alabaster-0.7.10 apipkg-1.4 appnope-0.1.0 argparse-1.4.0 astroid-1.5.3 backports.functools-lru-cache-1.4 backports.shutil-get-terminal-size-1.0.0 certifi-2017.7.27.1 chardet-3.0.4 configparser-3.5.0 coverage-4.4.1 decorator-4.1.2 docutils-0.14 enum34-1.1.6 execnet-1.4.1 gitdb2-2.0.3 idna-2.6 imagesize-0.7.1 ipdb-0.10.3 ipython-5.5.0 ipython-genutils-0.2.0 isort-4.2.15 lazy-object-proxy-1.3.1 lint-1.2.1 mccabe-0.6.1 ordereddict-1.1 pathlib2-2.3.0 pexpect-4.2.1 pickleshare-0.7.4 pluggy-0.5.2 prompt-toolkit-1.0.15 ptyprocess-0.5.2 py-1.4.34 pylint-1.7.4 pytest-3.2.3 pytest-cov-2.5.1 pytest-forked-0.2 pytest-pylint-0.7.1 pytest-xdist-1.20.1 pytz-2017.2 requests-2.18.4 scandir-1.6 simplegeneric-0.8.1 singledispatch-3.4.0.3 six-1.11.0 smmap2-2.0.3 snowballstemmer-1.2.1 sphinxcontrib-websupport-1.0.1 tox-2.9.1 traitlets-4.3.2 typing-3.6.2 urllib3-1.22 virtualenv-15.1.0 wcwidth-0.1.7 wrapt-1.10.11
