@@ -132,10 +132,10 @@ Collecting argparse; python_version == "2.6" (from pytest==3.2.3->-r /Users/elas
 Building wheels for collected packages: configparser, ipdb, lazy-object-proxy, lint, MarkupSafe, scandir, simplegeneric, wrapt, ordereddict
   Running setup.py bdist_wheel for configparser: started
   Running setup.py bdist_wheel for configparser: finished with status 'error'
-  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/configparser/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpWu11dhpip-wheel- --python-tag cp26:
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/configparser/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmp3RkvD7pip-wheel- --python-tag cp26:
   Traceback (most recent call last):
     File "<string>", line 1, in <module>
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/configparser/setup.py", line 63, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/configparser/setup.py", line 63, in <module>
       'Topic :: Software Development :: Libraries :: Python Modules',
     File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
       ok = dist.parse_command_line()
@@ -163,10 +163,10 @@ Building wheels for collected packages: configparser, ipdb, lazy-object-proxy, l
   Running setup.py clean for configparser
   Running setup.py bdist_wheel for ipdb: started
   Running setup.py bdist_wheel for ipdb: finished with status 'error'
-  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/ipdb/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpMSHGBcpip-wheel- --python-tag cp26:
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/ipdb/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpcCcT9qpip-wheel- --python-tag cp26:
   Traceback (most recent call last):
     File "<string>", line 1, in <module>
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/ipdb/setup.py", line 60, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/ipdb/setup.py", line 60, in <module>
       use_2to3=True,
     File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
       ok = dist.parse_command_line()
@@ -194,10 +194,10 @@ Building wheels for collected packages: configparser, ipdb, lazy-object-proxy, l
   Running setup.py clean for ipdb
   Running setup.py bdist_wheel for lazy-object-proxy: started
   Running setup.py bdist_wheel for lazy-object-proxy: finished with status 'error'
-  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/lazy-object-proxy/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpOY4wDJpip-wheel- --python-tag cp26:
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/lazy-object-proxy/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpzCtjwmpip-wheel- --python-tag cp26:
   Traceback (most recent call last):
     File "<string>", line 1, in <module>
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/lazy-object-proxy/setup.py", line 116, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/lazy-object-proxy/setup.py", line 116, in <module>
       for path in glob(join(root, '*.c'))
     File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
       ok = dist.parse_command_line()
@@ -225,10 +225,10 @@ Building wheels for collected packages: configparser, ipdb, lazy-object-proxy, l
   Running setup.py clean for lazy-object-proxy
   Running setup.py bdist_wheel for lint: started
   Running setup.py bdist_wheel for lint: finished with status 'error'
-  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/lint/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpLtm8HMpip-wheel- --python-tag cp26:
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/lint/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmp4_K9Hhpip-wheel- --python-tag cp26:
   Traceback (most recent call last):
     File "<string>", line 1, in <module>
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/lint/setup.py", line 14, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/lint/setup.py", line 14, in <module>
       install_requires=["gitpython", "pylint"]
     File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
       ok = dist.parse_command_line()
@@ -256,18 +256,18 @@ Building wheels for collected packages: configparser, ipdb, lazy-object-proxy, l
   Running setup.py clean for lint
   Running setup.py bdist_wheel for MarkupSafe: started
   Running setup.py bdist_wheel for MarkupSafe: finished with status 'error'
-  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/MarkupSafe/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpZRmuvnpip-wheel- --python-tag cp26:
-  /private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/MarkupSafe/setup.py:27: DeprecationWarning: Features are deprecated and will be removed in a future version. See https://github.com/pypa/setuptools/issues/65.
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/MarkupSafe/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpKV8hHZpip-wheel- --python-tag cp26:
+  /private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/MarkupSafe/setup.py:27: DeprecationWarning: Features are deprecated and will be removed in a future version. See https://github.com/pypa/setuptools/issues/65.
     Extension('markupsafe._speedups', ['markupsafe/_speedups.c']),
   /System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py:113: DeprecationWarning: Features are deprecated and will be removed in a future version. See https://github.com/pypa/setuptools/issues/65.
     _setup_distribution = dist = klass(attrs)
   Traceback (most recent call last):
     File "<string>", line 1, in <module>
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/MarkupSafe/setup.py", line 132, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/MarkupSafe/setup.py", line 132, in <module>
       try_building_extension()
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/MarkupSafe/setup.py", line 111, in try_building_extension
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/MarkupSafe/setup.py", line 111, in try_building_extension
       run_setup(True)
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/MarkupSafe/setup.py", line 105, in run_setup
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/MarkupSafe/setup.py", line 105, in run_setup
       features=features,
     File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
       ok = dist.parse_command_line()
@@ -295,10 +295,10 @@ Building wheels for collected packages: configparser, ipdb, lazy-object-proxy, l
   Running setup.py clean for MarkupSafe
   Running setup.py bdist_wheel for scandir: started
   Running setup.py bdist_wheel for scandir: finished with status 'error'
-  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/scandir/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpa1tOQVpip-wheel- --python-tag cp26:
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/scandir/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmp4MAkzapip-wheel- --python-tag cp26:
   Traceback (most recent call last):
     File "<string>", line 1, in <module>
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/scandir/setup.py", line 53, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/scandir/setup.py", line 53, in <module>
       'Programming Language :: Python :: Implementation :: CPython',
     File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
       ok = dist.parse_command_line()
@@ -326,10 +326,10 @@ Building wheels for collected packages: configparser, ipdb, lazy-object-proxy, l
   Running setup.py clean for scandir
   Running setup.py bdist_wheel for simplegeneric: started
   Running setup.py bdist_wheel for simplegeneric: finished with status 'error'
-  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/simplegeneric/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmp54gVl5pip-wheel- --python-tag cp26:
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/simplegeneric/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpjGNy7qpip-wheel- --python-tag cp26:
   Traceback (most recent call last):
     File "<string>", line 1, in <module>
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/simplegeneric/setup.py", line 39, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/simplegeneric/setup.py", line 39, in <module>
       line.strip() for line in open('classifiers.txt') if line.strip()
     File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
       ok = dist.parse_command_line()
@@ -357,12 +357,12 @@ Building wheels for collected packages: configparser, ipdb, lazy-object-proxy, l
   Running setup.py clean for simplegeneric
   Running setup.py bdist_wheel for wrapt: started
   Running setup.py bdist_wheel for wrapt: finished with status 'error'
-  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/wrapt/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpElhLfzpip-wheel- --python-tag cp26:
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/wrapt/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmp0DK78cpip-wheel- --python-tag cp26:
   Traceback (most recent call last):
     File "<string>", line 1, in <module>
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/wrapt/setup.py", line 100, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/wrapt/setup.py", line 100, in <module>
       run_setup(with_extensions=True)
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/wrapt/setup.py", line 70, in run_setup
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/wrapt/setup.py", line 70, in run_setup
       setup(**setup_kwargs_tmp)
     File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
       ok = dist.parse_command_line()
@@ -390,10 +390,10 @@ Building wheels for collected packages: configparser, ipdb, lazy-object-proxy, l
   Running setup.py clean for wrapt
   Running setup.py bdist_wheel for ordereddict: started
   Running setup.py bdist_wheel for ordereddict: finished with status 'error'
-  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/ordereddict/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmp_gbt7Mpip-wheel- --python-tag cp26:
+  Complete output from command /Users/elastic/Projects/git_public_repo/python_intermidiate_with_test/.tox/py26/bin/python2.6 -u -c "import setuptools, tokenize;__file__='/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/ordereddict/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/tmpHc157mpip-wheel- --python-tag cp26:
   Traceback (most recent call last):
     File "<string>", line 1, in <module>
-    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-vM1EjZ/ordereddict/setup.py", line 8, in <module>
+    File "/private/var/folders/0p/bh9nlxwj0gv3lcdq_xjpp5pr0000gn/T/pip-build-jQhGby/ordereddict/setup.py", line 8, in <module>
       py_modules=['ordereddict']
     File "/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/distutils/core.py", line 138, in setup
       ok = dist.parse_command_line()
@@ -420,7 +420,7 @@ Building wheels for collected packages: configparser, ipdb, lazy-object-proxy, l
   Failed building wheel for ordereddict
   Running setup.py clean for ordereddict
 Failed to build configparser ipdb lazy-object-proxy lint MarkupSafe scandir simplegeneric wrapt ordereddict
-Installing collected packages: alabaster, apipkg, appnope, wrapt, lazy-object-proxy, backports.functools-lru-cache, six, singledispatch, enum34, astroid, pytz, Babel, backports.shutil-get-terminal-size, certifi, chardet, ordereddict, configparser, coverage, decorator, docutils, execnet, smmap2, gitdb2, GitPython, idna, imagesize, scandir, pathlib2, pickleshare, ptyprocess, pexpect, ipython-genutils, traitlets, simplegeneric, Pygments, wcwidth, prompt-toolkit, ipython, ipdb, isort, MarkupSafe, Jinja2, mccabe, pylint, lint, pluggy, py, argparse, pytest, pytest-cov, pytest-forked, pytest-pylint, pytest-xdist, urllib3, requests, snowballstemmer, sphinxcontrib-websupport, typing, Sphinx, virtualenv, tox
+Installing collected packages: alabaster, apipkg, appnope, six, enum34, backports.functools-lru-cache, wrapt, singledispatch, lazy-object-proxy, astroid, pytz, Babel, backports.shutil-get-terminal-size, certifi, chardet, ordereddict, configparser, coverage, decorator, docutils, execnet, smmap2, gitdb2, GitPython, idna, imagesize, simplegeneric, scandir, pathlib2, pickleshare, ptyprocess, pexpect, wcwidth, prompt-toolkit, Pygments, ipython-genutils, traitlets, ipython, ipdb, isort, MarkupSafe, Jinja2, mccabe, pylint, lint, pluggy, py, argparse, pytest, pytest-cov, pytest-forked, pytest-pylint, pytest-xdist, urllib3, requests, snowballstemmer, sphinxcontrib-websupport, typing, Sphinx, virtualenv, tox
   Running setup.py install for wrapt: started
     Running setup.py install for wrapt: finished with status 'done'
   Running setup.py install for lazy-object-proxy: started
@@ -429,10 +429,10 @@ Installing collected packages: alabaster, apipkg, appnope, wrapt, lazy-object-pr
     Running setup.py install for ordereddict: finished with status 'done'
   Running setup.py install for configparser: started
     Running setup.py install for configparser: finished with status 'done'
-  Running setup.py install for scandir: started
-    Running setup.py install for scandir: finished with status 'done'
   Running setup.py install for simplegeneric: started
     Running setup.py install for simplegeneric: finished with status 'done'
+  Running setup.py install for scandir: started
+    Running setup.py install for scandir: finished with status 'done'
   Running setup.py install for ipdb: started
     Running setup.py install for ipdb: finished with status 'done'
   Running setup.py install for MarkupSafe: started
